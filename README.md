@@ -4,7 +4,7 @@ I'm a **Web Developer** focused on **JavaScript** and **TypeScript**, building *
 
 ### 🚀 Technologies I work with:
 - **Frontend:** JavaScript, TypeScript, React, Vue.js
-- **Backend:** Node.js, Express, GraphQL
+- **Backend:** Node.js, Express, Nest JS
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools:** Git, Docker, Webpack
 
